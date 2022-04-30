@@ -17,6 +17,11 @@ div     {
     display:        inline;
 }
 
+.enacted{
+    font-weight:    bold;
+    font-style:     italic;
+}
+
 h1      {
     text-align:     center;
 }
